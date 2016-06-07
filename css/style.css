@@ -16,56 +16,26 @@ main {
   width: 40%;
   float: left;
 }
-.headphones_section {
+
+.rightcontainer {
   width: 100%;
   margin-left: 30px;
 }
 
-.headphones_picture {
+.picture {
   width: 40%;
   float: left;
-  margin: 20px 0px 0px 0px;
+  margin-top: 20px;
 }
 
-.headphones_section img {
+.rightcontainer img {
   width: 100%;
-}
-
-.laptop_section {
-  width: 100%;
-  margin-left: 30px;
-}
-
-.laptop_picture {
-  width: 40%;
-  float: left;
-  margin: 20px 0px 0px 0px;
-}
-
-.laptop_section img {
-  width: 100%;
-}
-
-.window_section {
-  width: 100%;
-  margin-left: 30px;
-}
-
-.window_section img {
-  width: 100%;
-}
-
-.window_picture {
-  width: 40%;
-  float: left;
-  margin: 20px 0px 0px 0px;
-
 }
 
 .text {
   width: 50%;
   float: left;
-  margin: 0px 0px 0px 10px;
+  margin-left:10px;
 }
 
 .clearfix:after {
